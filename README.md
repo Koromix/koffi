@@ -21,13 +21,11 @@ RISC-V 64 [^3]     | ⬜️ *N/A*    | ✅ Yes   | ⬜️ *N/A*    | 🟨 Probab
 [^2]: The prebuilt binary uses the hard float ABI and expects a VFP coprocessor. Build from source to use Koffi with a different ABI (softfp, soft).
 [^3]: The prebuilt binary uses the LP64D (double-precision float) ABI. The LP64 ABI is supported in theory if you build Koffi from source but this is untested. The LP64F ABI is not supported.
 
-Go to the web site for more information: https://koffi.dev/
+Use the following links for more information:
 
-# Project history
-
-You can consult the [changelog](https://koffi.dev/changes) on the official website.
-
-Major version increments can include breaking API changes, use the [migration guide](https://koffi.dev/changes#migration-guide) for more information.
+- Documentation: https://koffi.dev/
+- Changelog: https://koffi.dev/changes
+- Source code: https://github.com/Koromix/rygel/ (see below for an explanation)
 
 # Source code
 
