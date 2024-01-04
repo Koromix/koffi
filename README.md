@@ -24,7 +24,7 @@ RISC-V 64 [^3]     | ⬜️ *N/A*    | ✅ Yes   | ⬜️ *N/A*    | 🟨 Probab
 Use the following links for more information:
 
 - Documentation: https://koffi.dev/
-- Changelog: https://koffi.dev/changes
+- Changelog: https://koffi.dev/changelog
 - Source code: https://github.com/Koromix/rygel/ (see below for an explanation)
 
 # Source code
