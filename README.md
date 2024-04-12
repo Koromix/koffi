@@ -40,6 +40,12 @@ Monorepositories have two killer features for me:
 
 You can find a more detailed rationale here: https://danluu.com/monorepo/
 
+# Build manually
+
+Koffi is built with a custom CMake-wrapper called CNoke, which also lives in the monorepository. Don't try to run CMake manually because it will fail.
+
+Follow the [documented build instructions](https://koffi.dev/contribute#build-from-source) to build Koffi from source.
+
 # License
 
 This program is free software: you can redistribute it and/or modify it under the terms of the **MIT License**.
