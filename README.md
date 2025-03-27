@@ -25,13 +25,13 @@ Use the following links for more information:
 
 - Documentation: https://koffi.dev/
 - Changelog: https://koffi.dev/changelog
-- Source code: https://github.com/Koromix/rygel/ (see below for an explanation)
+- Source code: https://codeberg.org/Koromix/rygel/ (see below for an explanation)
 
 # Source code
 
 This repository does not contain the code of Koffi but only exists as a front. For pratical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
 
-The source code is available here: https://github.com/Koromix/rygel/ (in the *src/koffi* subdirectory).
+The source code is available here: https://codeberg.org/Koromix/rygel/ (in the *src/koffi* subdirectory).
 
 Monorepositories have two killer features for me:
 
