@@ -1,3 +1,5 @@
+<a href="https://buymeacoffee.com/koromix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # Overview
 
 Koffi is a fast and easy-to-use C FFI module for Node.js, featuring:
