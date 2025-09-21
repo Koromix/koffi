@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Koromix&project=koffi&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <a href="https://buymeacoffee.com/koromix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Overview
