@@ -1,4 +1,8 @@
-<a href="https://buymeacoffee.com/koromix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+You can find more information and documentation on the [official web page](https://rekkord.org).
+
+If you like this project, consider supporting me:
+
+<a href="https://liberapay.com/Koromix/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 # Overview
 
