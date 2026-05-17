@@ -1,4 +1,4 @@
-You can find more information and documentation on the [official web page](https://rekkord.org).
+You can find more information and documentation on the [official web page](https://koffi.dev).
 
 If you like this project, consider supporting me:
 
