@@ -1,5 +1,7 @@
 You can find more information and documentation on the [official web page](https://koffi.dev).
 
+<a href="https://www.npmjs.com/package/koffi" style="border-bottom-color: transparent; margin-top: 8px;"><img src="https://img.shields.io/npm/v/koffi?color=brightgreen&amp;cacheSeconds=7200" alt="NPM"></a>
+
 If you like this project, consider supporting me:
 
 <a href="https://liberapay.com/Koromix/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
