@@ -18,15 +18,18 @@ Koffi is a fast and easy-to-use dynamic C FFI module for Node.js, featuring:
 
 The following combinations of OS and architectures __are officially supported and tested__ at the moment:
 
-ISA / OS           | Windows     | Linux    | macOS       | FreeBSD     | OpenBSD
------------------- | ----------- | -------- | ----------- | ----------- | --------
-x86 (IA32) [^1]    | ✅ Yes      | ✅ Yes   | ⬜️ *N/A*    | ✅ Yes      | ✅ Yes
-x86_64 (AMD64)     | ✅ Yes      | ✅ Yes   | ✅ Yes      | ✅ Yes      | ✅ Yes
-ARM64 (AArch64) LE | ✅ Yes      | ✅ Yes   | ✅ Yes      | ✅ Yes      | 🟨 Probably
-RISC-V 64 [^2]     | ⬜️ *N/A*    | ✅ Yes   | ⬜️ *N/A*    | 🟨 Probably | 🟨 Probably
+ISA / OS           | Windows  | Linux/glibc | Linux/musl  | macOS    | FreeBSD     | OpenBSD     | Android
+------------------ | -------- | ----------- | ----------- | -------- | ----------- | ----------- | -----------
+x86_64 (AMD64)     | ✅ Yes   | ✅ Yes      | ✅ Yes      | ✅ Yes   | ✅ Yes      | ✅ Yes      | ✅ Yes
+ARM64 (AArch64) LE | ✅ Yes   | ✅ Yes      | ✅ Yes      | ✅ Yes   | ✅ Yes      | 🟨 Probably | ✅ Yes
+x86 (IA32) [^1]    | ✅ Yes   | ✅ Yes      | 🟨 Probably | ⬜️ *N/A* | ✅ Yes      | ✅ Yes      | ⬜️ *N/A*
+ARM32 LE [^2]      | ⬜️ *N/A* | ✅ Yes      | 🟨 Probably | ⬜️ *N/A* | 🟨 Probably | 🟨 Probably | 🟨 Probably
+RISC-V 64 [^3]     | ⬜️ *N/A* | ✅ Yes      | 🟨 Probably | ⬜️ *N/A* | 🟨 Probably | 🟨 Probably | ⬜️ *N/A*
+LoongArch64        | ⬜️ *N/A* | ✅ Yes      | 🟨 Probably | ⬜️ *N/A* | 🟨 Probably | 🟨 Probably | ⬜️ *N/A*
 
 [^1]: The following call conventions are supported: cdecl, stdcall, MS fastcall, thiscall.
-[^2]: The prebuilt binary uses the LP64D (double-precision float) ABI. The LP64 ABI is supported in theory if you build Koffi from source but this is untested. The LP64F ABI is not supported.
+[^2]: The prebuilt binary uses the hard float ABI and expects a VFP coprocessor. Build from source to use Koffi with a different ABI (softfp, soft).
+[^3]: The prebuilt binary uses the LP64D (double-precision float) ABI. The LP64 ABI is supported in theory if you build Koffi from source but this is untested. The LP64F ABI is not supported.
 
 Use the following links for more information:
 
